@@ -58,10 +58,36 @@ button{
     font-size: 30px;
     border-radius: 10px;
     color: white;   
-    background-color: grey;
+    background-color: #6d7073;
     cursor: pointer;
 
 }
+
+
+
+#clear{
+
+
+    background: #7CBB00;
+    color: white;
+}
+
+#equal{
+
+    width: 320px;
+    color: white;
+    background: #F65314;
+    border: 1px solid black;
+    grid-column: 1 / span 4;
+    grid-row: 5;
+}
+
+#add, #minus, #multiply, #divide{
+    background: #00A1F1;
+    color: white;
+
+}
+
 
 button:hover{
 
