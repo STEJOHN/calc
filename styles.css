@@ -4,3 +4,15 @@
     box-sizing: border-box;
 }
 
+.calc-main{
+
+    position: relative;
+    width: 370px;
+    height: 670px;
+    margin: auto;
+    border: 16px black solid;
+    border-top-width: 40px;
+    border-bottom-width: 20px;
+    border-radius: 20px;
+    border-color: 
+}   
