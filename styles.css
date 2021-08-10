@@ -14,7 +14,7 @@
     border-top-width: 40px;
     border-bottom-width: 20px;
     border-radius: 20px;
-    border-color: 
+    background-color: lightgray;
 }   
 
 body{
@@ -30,8 +30,8 @@ body{
     height: 165px;
     width: 338px;
     color:black;
-    border: 1px solid lightgoldenrodyellow;
-    background-color: lightgoldenrodyellow;
+    border: 1px solid #7fa37c;
+    background-color: #7fa37c;
     font-size: 60px;
     font-weight: bold;
     text-align: right;
