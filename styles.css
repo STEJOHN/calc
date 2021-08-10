@@ -10,9 +10,30 @@
     width: 370px;
     height: 670px;
     margin: auto;
-    border: 16px black solid;
+    border: 16px solid black;
     border-top-width: 40px;
     border-bottom-width: 20px;
     border-radius: 20px;
     border-color: 
 }   
+
+body{
+    font-family: sans-serif;
+    display: flex;
+    text-align: center;
+    min-height: 100vh;
+
+}
+
+.calc-display{
+
+    height: 165px;
+    width: 338px;
+    color:black;
+    border: 1px solid lightgoldenrodyellow;
+    background-color: lightgoldenrodyellow;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: right;
+}   
+
