@@ -37,3 +37,12 @@ body{
     text-align: right;
 }   
 
+.calc-layout{
+
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+    margin: 5px;
+    gap: 5px;
+}
+
+
