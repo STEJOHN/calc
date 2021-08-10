@@ -95,7 +95,7 @@ button{
 
 }
 
-button:hover, #add:hover, #multiply:hover, #divide:hover, #clear:hover, #minus:hover, #period:hover{
+button:hover, #add:hover, #multiply:hover, #divide:hover, #clear:hover, #minus:hover, #period:hover, #equal:hover{
 
 
     background: black;
