@@ -15,9 +15,11 @@
     border-bottom-width: 20px;
     border-radius: 20px;
     background-color: lightgray;
+
 }   
 
 body{
+
     font-family: sans-serif;
     display: flex;
     text-align: center;
@@ -35,6 +37,7 @@ body{
     font-size: 60px;
     font-weight: bold;
     text-align: right;
+
 }   
 
 .calc-layout{
@@ -43,6 +46,7 @@ body{
     grid-template-columns: auto auto auto auto;
     margin: 5px;
     gap: 5px;
+
 }
 
 button{
@@ -56,4 +60,13 @@ button{
     color: white;   
     background-color: grey;
     cursor: pointer;
+
 }
+
+button:hover{
+
+    background: black;
+    color: white;
+    cursor: pointer;
+}
+
