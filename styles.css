@@ -1,7 +1,9 @@
 *{
+    
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+
 }
 
 .calc-main{
@@ -67,9 +69,9 @@ button{
 
 #clear{
 
-
     background: #7CBB00;
     color: white;
+
 }
 
 #equal{
@@ -79,9 +81,11 @@ button{
     background: #F65314;
     grid-column: 1 / span 4;
     grid-row: 5;
+
 }
 
 #add, #minus, #multiply, #divide{
+
     background: #00A1F1;
     color: white;
 
@@ -100,5 +104,6 @@ button:hover, #add:hover, #multiply:hover, #divide:hover, #clear:hover, #minus:h
     background: black;
     color: white;
     cursor: pointer;
+
 }
 
