@@ -45,4 +45,15 @@ body{
     gap: 5px;
 }
 
+button{
 
+    width: 70px;
+    height: 70px;
+    margin: 3px;
+    font-family: Tahoma, sans-serif;
+    font-size: 30px;
+    border-radius: 10px;
+    color: white;   
+    background-color: grey;
+    cursor: pointer;
+}
